@@ -1,4 +1,4 @@
-````markdown
+
 # 🎙️ Nova — Real-Time Voice AI Agent
 
 <p align="center">
