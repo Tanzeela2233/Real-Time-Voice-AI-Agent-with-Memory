@@ -1,4 +1,4 @@
-```python
+
 import os
 import io
 import json
@@ -1225,4 +1225,4 @@ if not st.session_state.messages:
         """,
         unsafe_allow_html=True,
     )
-```
+
